@@ -1,0 +1,40 @@
+{
+    "name": "ها",
+    "description": "User bot for telegram !",
+    "stack": "container",
+    "logo": "https://graph.org/file/0eab2a7cc000a59535d18.png",
+    "repository": "https://github.com/rogerpq/to",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/rogerpq/to",
+    "env": {
+        "API_ID": {
+            "description": "ايبي ايدي",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن بوت",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن بوت",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن",
+            "value": "",
+            "required": true
+        }
+    }
+} 
