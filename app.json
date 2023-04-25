@@ -11,8 +11,8 @@
     ],
     "website": "https://github.com/rogerpq/to",
     "env": {
-        "API_ID": {
-            "description": "ايبي ايدي",
+        "TOKEN": {
+            "description": "توكن بوت",
             "value": "",
             "required": true
         },
