@@ -1,4 +1,3 @@
-import telebot
 from datetime import datetime
 bot = telebot.TeleBot("5558725774:AAEnwhCn5sHEobHy8Sp2xoZV5VvZUdczWJo")
 @bot.message_handler(commands=['/time'])
